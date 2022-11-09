@@ -9,3 +9,14 @@ oRenderer: 0x3187448
 oMenyGui: 0x3157F44
 oNetClient: 0x3160610
 oGetPing: 0x346D70
+oHudClient: 0x18BBF74
+oChatClient: 0x3158930
+oPrintChat: 0x613F00
+oIsTargetable: 0xD04
+oHealth: 0xE74
+oTotalArmor: 0x137C
+oAttackRange: 0x139C
+oOnProcessSpellCast: 0x52D5B0
+oOnCreateObject: 0x29B100
+oOnBuff: 0x52BD50
+oONavGrid: 0x18BC1F8
