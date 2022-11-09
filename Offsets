@@ -1,0 +1,11 @@
+oLocalPlayer: 0x3157F40
+oTime: 0x3152068
+oMana: 0x29C
+oViewMatrix: 0x3181D70
+oHeroManager: 0x18BBF40
+oRespawnTimer: 0x15D270
+oBaseDrawPosition: 0x159CA0
+oRenderer: 0x3187448
+oMenyGui: 0x3157F44
+oNetClient: 0x3160610
+oGetPing: 0x346D70
