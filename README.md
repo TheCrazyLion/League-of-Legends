@@ -1,4 +1,4 @@
-League of Legends patch 12.21 offsets.
+League of Legends patch 12.22 offsets.
 
 
 
